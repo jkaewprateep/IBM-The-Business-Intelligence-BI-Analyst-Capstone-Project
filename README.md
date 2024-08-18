@@ -21,6 +21,7 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
 🦤💬 That should be both since the correct environment develops good activities and environment living organisms that support good content and agriculture development. In fact, performing experiments by adding sugar acids to plant fungi living organisms can create relationships that can determine the product content results, weight, and shape. </br>
 
 🐑💬 ➰ I thought that is because of GMOs because of everything looks good by the method and is easy to perform. I read this in the newspaper which people read and skipped but it is also in English lessons where they are teaching in school, after the lesson I found news on television about how they planted cubic watermelons, pineapples for food cans, and limes orange fruits for food production. 🍉🍍🍊 <br>
+🧸💬 Social media campaigns and customer surveys reveal that in fact we watch them for entertainment only and we may recognize of the fact how they can produce but we do not make any difference because they are already on the shelves and marketing is performing selection for us. We are buying from supermarket and management market area. </br>
 
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/introduction.png">
