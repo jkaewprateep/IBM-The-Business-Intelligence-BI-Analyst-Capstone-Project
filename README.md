@@ -15,6 +15,11 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
 
 ## Business data model ##
 
+💃( 👩‍🏫 )💬 Oneway of creating business data mode with measurement level is by performing the standard method and the mathematics method can perform simulation, estimation values prediction, or responsive message in similar pattern and recognition. </br>
+🦤💬 🥕🥕🥕 Good carrots have symmetric shapes because they provide good content with expected results, they found facts that because soil content creates the symmetric shape of the carrots then agriculture provides the correct nutrients and ingredients. </br>
+💃( 👩‍🏫 )💬 Discovering this method is by analyzing soil content, nutrients, and lights when agriculture performs carrot development for a long period or by discovering of the bacteria and fungi living organism in soil content. </br>
+🦤💬 That should be both since the correct environment develops good activities and environment living organisms that support good content and agriculture development. In fact, performing experiments by adding sugar acids to plant fungi living organisms can create relationships that can determine the product content results, weight, and shape. </br>
+
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/introduction.png">
     <img width="52.5%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/kid_02.jpg"> </br>
