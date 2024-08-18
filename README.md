@@ -35,7 +35,7 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
 🐯💬 So we can have our traditional seats because ladies should be in the first row and boys protect our women as culture INFO. </br>
 🐐💬 Now I can observe by sight who is the most diligent ‼️‼️ </br>
 
-🦁💬 Have you noticed that everyone continuing on the same pattern will benefit the theater by screaming loud sound HaHaHa +++  </br>
+🦁💬 Have you noticed that everyone continuing on the same pattern will benefit the theater by screaming loud sounds HaHaHa +++  </br>
 
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Basics%20Chart%20Creation.png">
@@ -46,7 +46,7 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
 ## Data Cleaning and Data preparation ##
 
 <p align="center" width="100%">
-    <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/data%20cleaning.png">
+    <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Data%20Cleaning.png">
     <img width="26.7%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/routes.png"> </br>
     <b> Pictures from the Internet </b> </br>
 </p>
