@@ -20,7 +20,7 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
 💃( 👩‍🏫 )💬 Discovering this method is by analyzing soil content, nutrients, and lights when agriculture performs carrot development for a long period or by discovering of the bacteria and fungi living organism in soil content. </br>
 🦤💬 That should be both since the correct environment develops good activities and environment living organisms that support good content and agriculture development. In fact, performing experiments by adding sugar acids to plant fungi living organisms can create relationships that can determine the product content results, weight, and shape. </br>
 
-🐑💬 ➰ I thought that is because of GMOs because of everything looks good by the method and is easy to perform. I read this in the newspaper which people read and skipped but it is also in English lessons where they are teaching in school, after the lesson I found news on television about how they planted cubic watermelons, pineapples for food cans, and limes orange fruits for food production. <br>
+🐑💬 ➰ I thought that is because of GMOs because of everything looks good by the method and is easy to perform. I read this in the newspaper which people read and skipped but it is also in English lessons where they are teaching in school, after the lesson I found news on television about how they planted cubic watermelons, pineapples for food cans, and limes orange fruits for food production. 🍉🍍🍊 <br>
 
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/introduction.png">
