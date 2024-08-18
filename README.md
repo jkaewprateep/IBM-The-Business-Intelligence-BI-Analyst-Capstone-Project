@@ -45,6 +45,8 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
 
 ## Data Cleaning and Data preparation ##
 
+🦭💬 Patterns and standardization is a personal method technique and it is a time-consuming process where many applications try to create applications with data patterns to create output datasets with clean data but there are always data that need to be learned, re-formats, standardized, and patterns mapping by the target or application flows balance. </br>
+
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Data%20Cleaning.png">
     <img width="26.7%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/routes.png"> </br>
