@@ -48,6 +48,7 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
 🦭💬 Patterns and standardization is a personal method technique and it is a time-consuming process where many applications try to create applications with data patterns to create output datasets with clean data but there are always data that need to be learned, re-formats, standardized, and patterns mapping by the target or application flows balance. </br>
 👧💬 🎈 Data must be correct by its meaning as in the example of file storage document that is valuable since they are true proven of source and their items in the references 🗄️🗂️ </br>
 🧸💬  In fact you can store anything as long as you want but they can be used when and only when they can have reference existing or proven they are true by aligned of the same or contrast, I found this when I watched the Harry Potter movie in the documentary room where everything is massive after the fighting how they recover the damages documents ⁉️ </br>
+🦭💬 Do you have the same meaning that you have a reference ⁉️ That is specific of it to be true. </br>
 
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Data%20Cleaning.png">
