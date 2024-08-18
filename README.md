@@ -55,3 +55,11 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
     <img width="26.7%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/routes.png"> </br>
     <b> Pictures from the Internet </b> </br>
 </p>
+
+## Pivot Table ##
+
+<p align="center" width="100%">
+    <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Pivot%20Table.png">
+    <img width="40%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/pivot%20time%20period.jpg"> </br>
+    <b> Pictures from the Internet </b> </br>
+</p>
