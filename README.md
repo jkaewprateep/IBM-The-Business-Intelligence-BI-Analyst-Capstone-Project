@@ -31,7 +31,9 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
 
 ## Continuous values and incrementation ## 
 
-🐐💬 Data exploration reveals the truth that multiple times of activities can indicate the significance or identity of the function, linear logarithms are a scaling technique to make data change significant when occurrence can appear in many forms. One of them is the frequency graph when its behavior is in a period where we can determine who had the most and less effects from the activity in our observations. </br>
+🐐💬 Data exploration reveals the truth that multiple times of activities can indicate the significance or identity of the function, linear logarithms are a scaling technique to make data change significant when occurrence can appear in many forms. One of them is the frequency graph when its behavior is in a period where we can determine who had the most and least effects from the activity in our observations. </br>
+🐯💬 So we can have our traditional seats because ladies should be in the first row and boys protect our women as culture INFO. </br>
+🐐💬 Now I can observe by sight who is the mode diligence ‼️‼‼️ </br>
 
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Basics%20Chart%20Creation.png">
