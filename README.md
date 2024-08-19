@@ -132,6 +132,8 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
 
 ## Basics Tableau visualization ##
 
+🦁💬 At least one side of the folding paper exists then another side alignment from the same origin can vary by their features. In contrast, folding the back of the flower does not always create a symmetric shape of the same flower except by intentional requirements. 💐🌷🌸 </br>
+
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Basics%20Tableau%20Visualizatoin.png">
     <img width="43.5%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/kid_06.jpg"> </br>
