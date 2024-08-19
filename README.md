@@ -133,6 +133,9 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
 ## Basics Tableau visualization ##
 
 🦁💬 At least one side of the folding paper exists then another side alignment from the same origin can vary by their features. In contrast, folding the back of the flower does not always create a symmetric shape of the same flower except by intentional requirements. 💐🌷🌸 </br>
+👧💬 🎈 Needles must be the entail information when float papers are from the same entire sheet query data, I have this approach because of experience with data information report templates generate, I had used a traditional program such as Crystal report, and specific report generator that I will perform detail information and perform group and subgroup by the report function, concatenate with aggregation function and subqueries. </br>
+
+👧💬 🎈 That is a good approach that in material view, or query returns resultsets of all information required by the report and they support information detail formats by drilled-down information and sub-categorize methods joining. </br>
 
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Basics%20Tableau%20Visualizatoin.png">
