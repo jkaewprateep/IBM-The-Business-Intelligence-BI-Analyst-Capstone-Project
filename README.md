@@ -108,6 +108,7 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
 🦄💬 I'd like to have green-water because the plant can grow from protection resources. ( water shadow and forest walker, the magic of the gathering card games )  </br>
 
 🐣💬 Columns are information, but overall selection information solve is infomration when the continuous solve or AOC or integrated area are function definition because they can tell you more than number information values but they can be identical by functions too. </br>
+🐨🎁🎵🎶 In mathametics definition and communication are important once they select the percent quartiles by the usage functions or by the number of values by 100% full definition and instruments claims that is working well because they standardized by all tools built and repairs in the maintenance system. That happens when comparing instruments and finding standards becomes the ultimate choice selective to buy an instrument. </br>
 
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Data%20Visualization.png">
