@@ -105,7 +105,7 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
 ## Data Visualization ##
 
 🦁💬 The visual-eyes-sation is not creating of new bigger eyes but information and detail displayed by the contrast and sense of the information, categorizing is a way to tell your group identity without telling anybody known from the communications and it is not a direct enchant of your eyes size but known your infomration from its column with saying communication. </br>
-🦄💬 I'd like to have green-water because the plant can grow from protection resources. ( water shadow and forest walker, the magics the gathering card games )  </br>
+🦄💬 I'd like to have green-water because the plant can grow from protection resources. ( water shadow and forest walker, the magic of the gathering card games )  </br>
 
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Data%20Visualization.png">
