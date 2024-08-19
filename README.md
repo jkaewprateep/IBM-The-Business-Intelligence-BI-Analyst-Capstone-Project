@@ -123,3 +123,11 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
     <img width="26.75%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/statistics_01.jpeg"> </br>
     <b> Pictures from the Internet </b> </br>
 </p>
+
+## Basics Tableau chart visualization ##
+
+<p align="center" width="100%">
+    <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Basics%20Tableau%20Visualizatoin.png">
+    <img width="43.5%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/kid_06.jpg"> </br>
+    <b> Pictures from the Internet </b> </br>
+</p>
