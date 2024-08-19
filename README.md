@@ -58,6 +58,8 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
 
 ## Pivot Table ##
 
+🧸💬 A pivot table is important since the period is a good phase shift for the calculation of events and response for tracking of action and re-action in real life, accounting also knows period (T) for predicting current, and target statistics measurement values from providing relationship of the target scope in the study experiment. </br>
+
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Pivot%20Table.png">
     <img width="40%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/pivot%20time%20period.jpg"> </br>
