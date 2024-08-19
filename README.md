@@ -94,6 +94,7 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
 🥺💬 I heart when somebody says Ammonites or sandstorms they are from the Historic Discovery Channel and they understand the same meaning since the satellite revealed the truth about both sides of the sandstorms. Both are discovered. </br>
 
 🧸💬 Selection and scope of works both small historical discover are more important than the secrete of the sandstorms that take lives in an instance⁉️ </br> 
+🐨🎁🎵🎶 Not except discovered of Chromanone Tomahawks </br> 
 
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Data%20Analysis.png">
