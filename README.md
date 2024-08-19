@@ -79,6 +79,8 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
 🐐💬 Entails grouping is the meaning of command information they communicated before but it is used in their development scopes when you can imagine the sub-blocks inside the connectors blocks that support communication of current, different channels and synchronous in the same box for unitilize id its speeds. </br>
 
 🦭💬 Who had the entails problem needs to work on the assignment ... communication is important when you have the same message from both the communicator and the receiver. </br>
+🧸💬⁉️ Sinor what is the door gate entail meaning ⁉️
+🦭💬 Do not cracks between the door.
 
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Data%20Query.png">
