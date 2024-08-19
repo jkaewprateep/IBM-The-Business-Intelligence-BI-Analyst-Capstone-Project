@@ -63,7 +63,9 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
 🐐💬 That is important when creating a summation table, two-dimensional table, and contrast table for graphs, nowadays graph input accepts tabular data information input formats. </br>
 
 🐣💬 Banana Tango Sieble is not a code word but an example of the problem domain that the Pivot table is solved fast in linear scales problem domain including telecommunications message and translation Tall-short word sentences. </br>
-🦭💬 🍌 That is not the top performance there is a definition of Bravo now you have the banana ‼️
+🦭💬 🍌 That is not the top performance there is a definition of Bravo now you have the banana ‼️ </br>
+
+👧💬 🎈 At each time of the table, the Pivot collection of the kinetic energy and return it balance by the ideal of the instrument the short-tall problem domain is solved by finding different of the input sequence and working on a new input different, save of the most meaning and transform. Most repeating words or alphabets do not need more than one size of character to replace and continue new conversation input creating more meaning by the learner's experiences. </br>    
 
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Pivot%20Table.png">
