@@ -62,6 +62,8 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
 🐑💬 ➰ Common functions are built on the time-scale assumption except for aggregation functions because of our understanding and the pivot table can perform on both time-scales and linear scales to provide aggregation function example SUM, COUNT, or dimension functions Dot product, linear scales function and etc. </br>
 🐐💬 That is important when creating a summation table, two-dimensional table, and contrast table for graphs, nowadays graph input accepts tabular data information input formats. </br>
 
+🐣💬 Banana Tango Sieble is not a code word but an example of the problem domain that the Pivot table is solved fast in linear scales problem domain including telecommunications message and translation Tall-short word sentences. </br>
+
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Pivot%20Table.png">
     <img width="40%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/pivot%20time%20period.jpg"> </br>
