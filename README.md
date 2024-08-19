@@ -91,6 +91,7 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
 ## Data Analysis ##
 
 🐑💬 ➰ The data analysis is similar to when you discovered the fossils first you may find the perfect piece match of what you are looking for continue working you may find the absolute path of your work about this year. Continue you may find new discoveries of the skill types and try to compare scales and what are they eating, further you find a whole piece of data and what they look like and now you are thinking about it or dreaming about it what is exactly of your discover and how the innovative ideas about it. </br>
+🥺💬 I heart when somebody day Ammonites or sandstorms they are from the Historic Discovery Channel and they understand the same meaning since the satellite revealed the truth about both sides of the sandstorms. Both are discovered. </br>
 
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Data%20Analysis.png">
