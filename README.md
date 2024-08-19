@@ -159,6 +159,9 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
 
 ## Insight and recommendations ##
 
+💃( 👩‍🏫 )💬 That is because they are using the hierarchy model and flat model ka‼️ </br>
+[IBM-Data-Warehousing-Capstone-Project]( https://github.com/jkaewprateep/IBM-Data-Warehousing-Capstone-Project/blob/main/README.md )
+
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Insight%20and%20recommendations.png">
     <img width="17.7%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/kid_08.png"> </br>
