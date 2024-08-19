@@ -116,7 +116,9 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
     <b> Pictures from the Internet </b> </br>
 </p>
 
-## Data Visualization ##
+## Statistics Analysis ##
+
+🧸💬 Function performance is not how fast the function calculates but the definition of the function is identical to the explanation of the system or relationship with the target accuracy approach and consumable method. F1, Confusion matrix, standard deviation, correlations, equation polynomials, ANOVA, F-test, T-test, z-scores distribution, min-max, median, and modes are approaches to extract or simulate the function represented in different targets of the study scopes. </br>
 
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Statistics%20Analysis.png">
