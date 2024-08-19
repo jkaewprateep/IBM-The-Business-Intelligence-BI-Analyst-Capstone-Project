@@ -115,3 +115,11 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
     <img width="38.3%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/kid_05.jpg"> </br>
     <b> Pictures from the Internet </b> </br>
 </p>
+
+## Data Visualization ##
+
+<p align="center" width="100%">
+    <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Statistics%20Analysis.png">
+    <img width="26.75%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/statistics_01.jpeg"> </br>
+    <b> Pictures from the Internet </b> </br>
+</p>
