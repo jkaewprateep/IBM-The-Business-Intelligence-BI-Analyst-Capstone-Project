@@ -78,6 +78,8 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
 🧸💬 Working with entails engagement problem is the patch-panels and specific balance of the input-output indicators, similar to selecting query columns and grouping but performed by the nature function of SQL statement command the pre-aggregate and post aggregate function. In the path panel, the standard is connected to all wired with specific indicators and labels when tools and instruments are selected of the bandwidths channels they required for work with the configuration function but it is special when they can have a reserved port with the communication port that support different synchronized speeds that is one of the high-end integrated communication boxes where the merged into telecommunication box. <br>
 🐐💬 Entails grouping is the meaning of command information they communicated before but it is used in their development scopes when you can imagine the sub-blocks inside the connectors blocks that support communication of current, different channels and synchronous in the same box for unitilize id its speeds. </br>
 
+🦭💬 Who had the entails problem needs to work on the assignment ... communication is important when you have the same message from both the communicator and the receiver. </br>
+
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Data%20Query.png">
     <img width="17.9%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/kid_03.jpg"> </br>
