@@ -146,6 +146,10 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
 ## Advanced Tableau visualization ##
 
 🦁💬 Filter and highlight visualization are good features both user interactions and data information relationship management are good performance in the Tableau public program. Once you study the report start with standard pattern reports and find the application flows information and identical process for the report information meaning, update information variables, communication variables in the system, and solution then you can find transmission and receiver report, validation of programs communication message and information of the success process (internal / transfer process action). </br>
+🦭💬 We need to understand the overall process and then crate drawing of the internal and external of our system communications, we can determine the initial events of the flow, indicate of requirement process indicated in the interaction flow, correct treatments and reliabilities with integration matrixes examples or business intelligence development for performance process evaluation. </br>
+🦭💬 How many calls succeed by the process and how information served within the specific range of time and call treatment actions are in the correct order when it can create good customer feedback and remain of setting SLA and KPI, etc? These answers cannot be analyzed by a single system views report design because they are composed of multiple systems in the solution and they all have their KPIs and setup goals. </br>
+
+👧💬 🎈 Some reports may require secured communication by sources, algorithms, method information extraction, and concatenation, process, and encryption algorithms where Tableau can export with a secured password protect package. </br>
 
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Advanced%20Tableau%20Visualizatoin.png">
