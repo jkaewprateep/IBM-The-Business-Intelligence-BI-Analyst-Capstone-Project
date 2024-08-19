@@ -124,10 +124,26 @@ IBM-The Business Intelligence (BI) Analyst Capstone Project
     <b> Pictures from the Internet </b> </br>
 </p>
 
-## Basics Tableau chart visualization ##
+## Basics Tableau visualization ##
 
 <p align="center" width="100%">
     <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Basics%20Tableau%20Visualizatoin.png">
     <img width="43.5%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/kid_06.jpg"> </br>
+    <b> Pictures from the Internet </b> </br>
+</p>
+
+## Advanced Tableau visualization ##
+
+<p align="center" width="100%">
+    <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Advanced%20Tableau%20Visualizatoin.png">
+    <img width="40.30%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/kid_07.png"> </br>
+    <b> Pictures from the Internet </b> </br>
+</p>
+
+## Insight and recommendations ##
+
+<p align="center" width="100%">
+    <img width="47%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/Insight%20and%20recommendations.png">
+    <img width="17.7%" src="https://github.com/jkaewprateep/IBM-The-Business-Intelligence-BI-Analyst-Capstone-Project/blob/main/kid_08.png"> </br>
     <b> Pictures from the Internet </b> </br>
 </p>
